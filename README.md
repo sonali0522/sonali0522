@@ -1,4 +1,4 @@
-## Hello World, I'm [Sonali Panda!](https://www.linkedin.com/in/sonali-panda-69b331292/)
+## <h2 align="center">Hello there, I'm [Sonali Panda!](https://www.linkedin.com/in/sonali-panda-69b331292/)</h2>
 <!-- <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
