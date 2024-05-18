@@ -43,7 +43,7 @@
 <br/>
 
 <hr>
-<p align="center">Thanks for visiting my profile. Let's connect and create amazing projects together!</p>
+<p align="center">Thanks for visiting my profile.</p>
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwMzkwNjgsIm5iZiI6MTcxNjAzODc2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE4VDEzMjYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2NjY4ZDJjYjQxMzM2MTg3ZjM0OTMwYjE2Y2RlNjI5NTVkNGM4NjU0NmViM2VmMDE0ZjNjMWRiYzUxYTQxMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HqCmqmJ42xAk8-3drTdtSFR1QXxnUBRxNd5Lq6yHV_M" width="400"/>
 </p>
