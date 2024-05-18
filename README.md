@@ -39,7 +39,6 @@
 </p> -->
 
 ### Now Playing:
-
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31fhve63e5rj4vhji225c23ebktq?si=zMgndxPzQAu1RO4P9z7rng)
 <br/>
 ---
