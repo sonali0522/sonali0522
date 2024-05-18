@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31fhve63e5rj4vhji225c23ebktq?si=zMgndxPzQAu1RO4P9z7rng)
 <br/>
 ---
 
