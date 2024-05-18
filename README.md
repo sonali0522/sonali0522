@@ -1,19 +1,23 @@
 ## Hello World, I'm [Sonali Panda!](https://www.linkedin.com/in/sonali-panda-69b331292/)
 
-<a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
+<!-- <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="mailto:sonalipandakunu123@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
-</a>
+</a> -->
 
 <br />
+<h3 align="left">Let's Connect:</h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=sunny7739&label=Profile%20views&color=0e75b6&style=flat" alt="sunny7739" /> </h3>
 
-### About Me 🚀
-- 💻 
-- 🎓
--  
--  
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/chandanck22">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 ### <h3 align="left">Languages and Tools:</h3>
 
