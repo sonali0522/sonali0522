@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 
 <!--![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonali0522&show_icons=true&theme=radical)-->
-![Sonali's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sonali0522&layout=compact&langs_count=8&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=sonali0522&show_icons=true&locale=en&layout=compact)
+
 <br />
 
 <p align="center">
