@@ -3,6 +3,7 @@
 </p>
 
 ### <h2 align="center">Hello there, I'm Sonali Panda</h2>
+
 <br />
 ### <h3 align="left">Languages and Tools:</h3>
  
