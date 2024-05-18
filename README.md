@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 ![Sonali's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sonali0522&layout=compact&langs_count=8&hide_border=true)
 <br />
 
+<p align="center">
+ <img src="https://github.com/"C:\Users\hp\Downloads\code_20221226111647_via_10015_io.jpg" alt="quote-snippet"/>
+</p>
+
+
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31fhve63e5rj4vhji225c23ebktq?si=zMgndxPzQAu1RO4P9z7rng)
