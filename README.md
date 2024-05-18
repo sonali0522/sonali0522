@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 <a href="mailto:sonalipandakunu123@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
+
+<br />
+
+### About Me 🚀
+
+![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonali0522&show_icons=true&theme=radical)
+
