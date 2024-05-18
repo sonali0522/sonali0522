@@ -5,7 +5,9 @@
 <a href="mailto:sonalipandakunu123@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a> -->
-
+<p align="center">
+<br><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="280px"><br><br>
+</p>
 ### <h3 align="left">Languages and Tools:</h3>
  
 [![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#) 
