@@ -4,8 +4,6 @@
 
 ### <h2 align="center">Hello there, I'm Sonali Panda</h2>
 
-<br />
-
 ### <h3 align="left">Languages and Tools:</h3>
  
 [![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#) 
