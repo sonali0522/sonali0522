@@ -19,9 +19,7 @@
 
 <!--![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonali0522&show_icons=true&theme=radical)-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=sonali0522&show_icons=true&locale=en&layout=compact)
-
 <br />
-
 ### <h3 align="left">Let's Connect:</h3>
 <div id="badges" align = "left">
   <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
