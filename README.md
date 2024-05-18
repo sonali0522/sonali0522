@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+<a href="mailto:sonalipandakunu123@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
