@@ -1,12 +1,10 @@
 ## Hello World, I'm [Sonali Panda!](https://www.linkedin.com/in/sonali-panda-69b331292/)
-
 <!-- <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="mailto:sonalipandakunu123@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a> -->
-
 <br />
 <h3 align="left">Let's Connect:</h3>
 <div id="badges" align = "left">
