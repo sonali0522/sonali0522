@@ -45,6 +45,7 @@
 <hr>
 <p align="center">Thanks for visiting my profile. Let's connect and create amazing projects together!</p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125716338/229711039-af5c5827-846b-46b2-970c-50648245f1d6.gif" width="400"/>
+  <img src="![image](https://github.com/sonali0522/sonali0522/assets/168450469/5a5fde34-a3e0-4fa4-a59a-91e0864ba991)
+" width="400"/>
 </p>
 
