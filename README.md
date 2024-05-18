@@ -21,13 +21,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### <h3 align="left">Let's Connect:</h3>
 <div id="badges" align = "left">
-  <a href=" https://github.com/sonali0522">
-    <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Badge"/>
+  <a href=" https://github.com/sonali0522/">
+    <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/sonalii05">
+  <a href="https://twitter.com/sonalii05/">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   
