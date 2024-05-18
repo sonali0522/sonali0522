@@ -5,7 +5,6 @@
 <a href="mailto:sonalipandakunu123@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a> -->
-<br />
 <h3 align="left">Let's Connect:</h3>
 <div id="badges" align = "left">
   <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
