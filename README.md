@@ -30,6 +30,15 @@
 
 <br />
 
+### <h3 align="left">Let's Connect:</h3>
+<div id="badges" align = "left">
+  <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/chandanck22">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
 <p align="center">
  <img src="https://github.com/sonali0522/sonali0522/blob/main/quote.jpg" alt="quote"/>
 </p>
