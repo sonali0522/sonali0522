@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ![Sonali's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sonali0522&layout=compact&langs_count=8&hide_border=true)
 <br />
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sonali0522.sonali0522)
+
