@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 
 <p align="center">
- <img src="C:\Users\hp\Downloads\code_20221226111647_via_10015_io.jpg" alt="quote-snippet"/>
+ <img src="https://github.com/sonali0522/sonali0522/blob/main/quote.jpg" alt="quote"/>
 </p>
 
 
