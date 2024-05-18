@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
  <a href=" https://github.com/sonali0522">
-    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=x&logoColor=white" alt="GitHub Badge"/>
   </a>
   
 <br />
