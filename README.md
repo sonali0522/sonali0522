@@ -45,5 +45,4 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31fhve63e5rj4vhji225c23ebktq?si=zMgndxPzQAu1RO4P9z7rng)
 <br/>
 ---
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
