@@ -23,8 +23,11 @@
   <a href="https://www.linkedin.com/in/sonali-panda-69b331292/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/chandanck22">
+  <a href="https://twitter.com/sonalii05">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ <a href=" https://github.com/sonali0522">
+    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   
 <br />
