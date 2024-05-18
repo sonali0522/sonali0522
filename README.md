@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)](#)  
 [![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#)  
 [![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonali0522&show_icons=true&theme=radical)-->
@@ -27,7 +28,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
  <a href=" https://github.com/sonali0522">
-    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=x&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub Badge"/>
   </a>
   
 <br />
