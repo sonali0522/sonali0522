@@ -1,4 +1,4 @@
-### Hello World, I'm [Sonali Panda!](https://www.linkedin.com/in/sonali-panda-69b331292/)
+## Hello World, I'm [Sonali Panda!](https://www.linkedin.com/in/sonali-panda-69b331292/)
 
 <!--
 **sonali0522/sonali0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
