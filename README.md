@@ -31,9 +31,9 @@
   
 <br />
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://github.com/sonali0522/sonali0522/blob/main/quote.jpg" alt="quote"/>
-</p>
+</p> -->
 
 
 ### Now Playing 🎧
