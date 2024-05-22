@@ -14,9 +14,6 @@
 [![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--![Sonali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonali0522&show_icons=true&theme=radical)-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=sonali0522&show_icons=true&locale=en&layout=compact)
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### <h3 align="left">Let's Connect:</h3>
